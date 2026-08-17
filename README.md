@@ -66,6 +66,4 @@ Error Handling & Logging
 - Learning AppSec principles and vulnerability auditing.
 - Improving software architecture and clean API design.
 - Applying hardware knowledge to Edge Computing projects.
-
-```
-
+---
