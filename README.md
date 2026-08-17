@@ -67,6 +67,5 @@ Error Handling & Logging
 - Improving software architecture and clean API design.
 - Applying hardware knowledge to Edge Computing projects.
 
----
-### My GitHub Stats
-![Gonzalo's Stats](https://github-readme-stats.vercel.app/api?username=AlegreGonza&show_icons=true&theme=dark)
+```
+
