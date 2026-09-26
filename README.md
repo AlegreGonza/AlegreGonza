@@ -1,6 +1,6 @@
-### Hi, I'm Gonzalo — Backend/Systems Professional pivoting into Cybersecurity (SOC / Blue Team)
+### Hi, I'm Gonzalo — IT Professional pivoting into Cybersecurity (SOC / Blue Team)
 
-I come from a backend/systems background (Java, SQL) and I'm currently studying Systems Engineering. I'm moving into cybersecurity by building and attacking my own home lab rather than just collecting certificates — every skill below was learned by solving a real problem I ran into while building this.
+I'm a professional currently studying a Systems Engineering degree (Licenciatura en Sistemas). I'm moving into cybersecurity by building and attacking my own home lab, adding to my certifications along the way — every skill below was learned by solving a real problem I ran into while building this.
 
 - 🔭 Currently building: a self-hosted SOC stack (Suricata + Wazuh + TheHive + Cortex), attacking it myself, and documenting each incident end to end.
 - 🌱 Currently deepening: detection engineering (Sigma rules), SOAR automation, and MITRE ATT&CK mapping.
