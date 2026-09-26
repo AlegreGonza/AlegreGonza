@@ -1,10 +1,10 @@
-### Hi, I'm Gonzalo — aspiring SOC Tier 1 Analyst
+### Hi, I'm Gonzalo — Backend/Systems Professional pivoting into Cybersecurity (SOC / Blue Team)
 
-I come from a backend/systems background (Java, SQL) and I'm currently studying Systems Engineering. I'm transitioning into cybersecurity by building and attacking my own home lab rather than just collecting certificates — every skill below was learned by solving a real problem I ran into while building this.
+I come from a backend/systems background (Java, SQL) and I'm currently studying Systems Engineering. I'm moving into cybersecurity by building and attacking my own home lab rather than just collecting certificates — every skill below was learned by solving a real problem I ran into while building this.
 
 - 🔭 Currently building: a self-hosted SOC stack (Suricata + Wazuh + TheHive + Cortex), attacking it myself, and documenting each incident end to end.
 - 🌱 Currently deepening: detection engineering (Sigma rules), SOAR automation, and MITRE ATT&CK mapping.
-- 🎯 Goal: my first role as a SOC Tier 1 Analyst.
+- 🎯 Focus: SOC / Blue Team operations — detection, correlation, and incident response.
 - 💬 Ask me about: Wazuh/Suricata correlation, incident documentation (SANS PICERL / NIST 800-61), or the infra troubleshooting stories in my lab repo — Docker networking, Linux permissions, broken SOAR integrations, that kind of thing.
 
 ---
@@ -32,7 +32,3 @@ Also see **[ctf-writeups](https://github.com/AlegreGonza/ctf-writeups)** for Blu
 
 - Networking Basics — Cisco Networking Academy
 - Cybersecurity Defense Analyst Career Path — Cisco + Splunk
-
----
-
-📫 More about me: [gonzalo-alegre.vercel.app](https://gonzalo-alegre.vercel.app/)
