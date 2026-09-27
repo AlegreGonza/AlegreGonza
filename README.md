@@ -7,7 +7,9 @@
 
 ### About
 
-IT professional and Systems Engineering student, focused on defensive cybersecurity. My practical training comes from designing, operating, and attacking my own SOC environment — every competency listed here came from solving a real problem while building it, not from following a tutorial.
+IT professional and Systems Engineering student, working toward a career in defensive cybersecurity.
+
+This profile is where I document that process: a self-built SOC environment that I design, operate, and attack myself, with every incident investigated and written up the way a real SOC case would be.
 
 My focus is detection, event correlation, and incident response as part of a SOC team.
 
