@@ -1,5 +1,4 @@
 ### Gonzalo Alegre
-POCTF:INC3AURY
 **Cybersecurity Analyst · Blue Team · Detection & Incident Response**
 
 [LinkedIn](https://www.linkedin.com/in/alegregonzalos/) · [SOC Home Lab](https://github.com/AlegreGonza/soc-home-lab)
