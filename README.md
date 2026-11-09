@@ -125,7 +125,7 @@ Blue Team and DFIR challenge write-ups, focused on the analytical reasoning behi
 <td width="50%" valign="top">
 
 #### Open source contribution
-**Wazuh** — reported a decoder issue in the sshd decoder ([wazuh/wazuh#39954](https://github.com/wazuh/wazuh/issues/39954)). It did not extract source IP or user from failed OpenSSH authentication events, which blocked correlation and brute-force alerts. Reproduced on Wazuh 4.8.0 and 4.14.7, mapped to MITRE ATT&CK T1110.001.
+**Wazuh:** reported a decoder issue in the sshd decoder ([wazuh/wazuh#39954](https://github.com/wazuh/wazuh/issues/39954)). It did not extract source IP or user from failed OpenSSH authentication events, which blocked correlation and brute-force alerts. Reproduced on Wazuh 4.8.0 and 4.14.7, mapped to MITRE ATT&CK T1110.001.
 
 </td>
 </tr>
@@ -145,15 +145,6 @@ EventBridge (every 5 min)  →  Monitor Lambda  →  Checker Lambda
         →  DynamoDB (history)  →  SNS (email alerts)
 ```
 
-### GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlegreGonza&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlegreGonza&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
 ### Core competencies
 
 - **Detection & correlation:** custom rules, correlation of network (Suricata) and host (Wazuh) events, false-positive reduction.
@@ -163,6 +154,12 @@ EventBridge (every 5 min)  →  Monitor Lambda  →  Checker Lambda
 - **Digital forensics:** timeline reconstruction from Windows artifacts, time-zone normalization, cross-source correlation.
 - **Cloud & IaC:** serverless architecture, Terraform state management, least-privilege IAM, free-tier cost control.
 - **Security in CI/CD:** secret scanning and infrastructure-as-code static analysis.
+
+<div align="center">
+
+[![View all repositories](https://img.shields.io/badge/View_all_repositories-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlegreGonza?tab=repositories)
+
+</div>
 
 ### Education & certifications
 
