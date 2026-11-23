@@ -8,7 +8,7 @@
   <a href="https://github.com/AlegreGonza/tracewell"><img src="https://img.shields.io/badge/Tracewell-22C55E?style=for-the-badge&logo=python&logoColor=white" alt="Tracewell"></a>
   <a href="https://github.com/AlegreGonza/ad-hardened-lab"><img src="https://img.shields.io/badge/ad--hardened--lab-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="ad-hardened-lab"></a>
 </p>
-
+---
  
 ## 👋 About me
  
@@ -26,67 +26,55 @@ Cloud & Security Analyst based in Corrientes, Argentina. I build and document se
 ## 🚀 Featured projects
  
 <table>
-<tr>
-<td width="50%" valign="top">
-### 🛡️ SOC Home Lab
-![status](https://img.shields.io/badge/status-in_progress-F59E0B?style=flat-square) ![cases](https://img.shields.io/badge/documented_cases-6-22C55E?style=flat-square)
- 
-Controlled attacks against my own machines, detected with Suricata (NIDS) and Wazuh (HIDS and FIM). Wazuh alerts open cases automatically in TheHive.
- 
-`Suricata` `Wazuh` `TheHive` `Sigma` `MITRE ATT&CK`
- 
-[🔗 Repository](https://github.com/AlegreGonza/soc-home-lab)
- 
-</td>
-<td width="50%" valign="top">
-### 📡 Tracewell
-![status](https://img.shields.io/badge/status-MVP-22C55E?style=flat-square)
- 
-Desktop traffic analyzer for SOC Tier 1 triage. Reads `.pcap` / `.pcapng` files or captures live traffic.
- 
-`Python` `FastAPI` `React` `Scapy` `dpkt` `pytest`
- 
-[🔗 Repository](https://github.com/AlegreGonza/tracewell)
- 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-### ☁️ uptime-sentinel
-![status](https://img.shields.io/badge/status-published-3B82F6?style=flat-square) ![license](https://img.shields.io/badge/license-MIT-22C55E?style=flat-square)
- 
-Serverless availability monitor on AWS, defined in Terraform. Checks sites every 5 minutes, stores history in DynamoDB and sends email alerts.
- 
-`AWS Lambda` `DynamoDB` `SNS` `Terraform` `API Gateway`
- 
-[🔗 Repository](https://github.com/AlegreGonza/uptime-sentinel)
- 
-</td>
-<td width="50%" valign="top">
-### 🏰 ad-hardened-lab
-![status](https://img.shields.io/badge/status-lab-8B5CF6?style=flat-square)
- 
-Windows Server 2022 domain in VirtualBox, built as a real administration environment.
- 
-`Windows Server` `Active Directory` `Ansible` `PowerShell` `GitHub Actions`
- 
-[🔗 Repository](https://github.com/AlegreGonza/ad-hardened-lab)
- 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-### 🏁 ctf-writeups
-![status](https://img.shields.io/badge/type-write--ups-EC4899?style=flat-square)
- 
-Blue Team and DFIR CTF write-ups focused on the reasoning behind each finding, including a full forensic investigation of a Windows endpoint and the "Paper Ghost" challenge from Holmes CTF 2026.
- 
-`DFIR` `Blue Team` `Registry` `SRUM` `ShimCache`
- 
-[🔗 Repository](https://github.com/AlegreGonza/ctf-writeups)
- 
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ SOC Home Lab</h3>
+      <img src="https://img.shields.io/badge/status-in_progress-F59E0B?style=flat-square" alt="status-in progress"> <img src="https://img.shields.io/badge/documented_cases-6-22C55E?style=flat-square" alt="documented cases-6">
+      <p>Controlled attacks against my own machines, detected with Suricata (NIDS) and Wazuh (HIDS and FIM). Wazuh alerts open cases automatically in TheHive.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Suricata-EF3B24?style=flat-square&logo=suricata&logoColor=white" alt="Suricata"> <img src="https://img.shields.io/badge/Wazuh-00A3E0?style=flat-square" alt="Wazuh"> <img src="https://img.shields.io/badge/TheHive-FFCC00?style=flat-square" alt="TheHive"> <img src="https://img.shields.io/badge/Sigma-1E3A8A?style=flat-square" alt="Sigma"> <img src="https://img.shields.io/badge/MITRE_ATT%26CK-DC2626?style=flat-square" alt="MITRE ATT%26CK">
+      </p>
+      <a href="https://github.com/AlegreGonza/soc-home-lab">🔗 Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 Tracewell</h3>
+      <img src="https://img.shields.io/badge/status-MVP-22C55E?style=flat-square" alt="status-MVP">
+      <p>Desktop traffic analyzer for SOC Tier 1 triage. Reads .pcap / .pcapng files or captures live traffic.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="python" height="28"> <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="fastapi" height="28"> <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="react" height="28"> <img src="https://img.shields.io/badge/Scapy-3776AB?style=flat-square&logo=python&logoColor=white" alt="Scapy"> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square" alt="pytest">
+      </p>
+      <a href="https://github.com/AlegreGonza/tracewell">🔗 Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ uptime-sentinel</h3>
+      <img src="https://img.shields.io/badge/status-published-3B82F6?style=flat-square" alt="status-published"> <img src="https://img.shields.io/badge/license-MIT-22C55E?style=flat-square" alt="license-MIT">
+      <p>Serverless availability monitor on AWS, defined in Terraform. Checks sites every 5 minutes, stores history in DynamoDB and sends email alerts.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="aws" height="28"> <img src="https://skillicons.dev/icons?i=terraform&theme=dark" alt="terraform" height="28"> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB"> <img src="https://img.shields.io/badge/SNS-D6246E?style=flat-square&logo=amazonaws&logoColor=white" alt="SNS"> <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" alt="API Gateway">
+      </p>
+      <a href="https://github.com/AlegreGonza/uptime-sentinel">🔗 Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏰 ad-hardened-lab</h3>
+      <img src="https://img.shields.io/badge/status-lab-8B5CF6?style=flat-square" alt="status-lab">
+      <p>Windows Server 2022 domain in VirtualBox, built as a real administration environment.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="windows" height="28"> <img src="https://skillicons.dev/icons?i=powershell&theme=dark" alt="powershell" height="28"> <img src="https://skillicons.dev/icons?i=ansible&theme=dark" alt="ansible" height="28"> <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="githubactions" height="28"> <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Active Directory">
+      </p>
+      <a href="https://github.com/AlegreGonza/ad-hardened-lab">🔗 Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🏁 ctf-writeups</h3>
+      <img src="https://img.shields.io/badge/type-write--ups-EC4899?style=flat-square" alt="type-write--ups">
+      <p>Blue Team and DFIR CTF write-ups focused on the reasoning behind each finding, including a full forensic investigation of a Windows endpoint and the "Paper Ghost" challenge from Holmes CTF 2026.</p>
+      <p><img src="https://img.shields.io/badge/DFIR-EF4444?style=flat-square" alt="DFIR"> <img src="https://img.shields.io/badge/Blue_Team-3B82F6?style=flat-square" alt="Blue Team"> <img src="https://img.shields.io/badge/Registry-64748B?style=flat-square" alt="Registry"> <img src="https://img.shields.io/badge/SRUM-64748B?style=flat-square" alt="SRUM"> <img src="https://img.shields.io/badge/ShimCache-64748B?style=flat-square" alt="ShimCache"></p>
+      <a href="https://github.com/AlegreGonza/ctf-writeups">🔗 Repository</a>
+    </td>
+  </tr>
 </table>
 ## 🧪 SOC Home Lab: cases
  
